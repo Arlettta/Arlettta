@@ -5,21 +5,34 @@ I am xtremely motivated to constantly develop my skills and grow professionally.
 Skills:
 
 Python (basics)
+
 Postman
+
 TestLink
+
 Trello
+
 Devtolls
+
 SCRUM
+
+
 Technical skills:
 
 Creating test cases
+
 Reporting bugs
+
 Knowledge of functional tests
+
 Knowledge of non-functional tests
+
 Knowledge od ISTQB
+
 Books:
 
 Zawód tester - Radosław Smilgin
+
 Karolina Zmitrowicz - Tester oprogramowania - Przygotowanie do egzaminu
 <!---
 Arlettta/Arlettta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
