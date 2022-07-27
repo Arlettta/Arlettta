@@ -12,7 +12,7 @@ Skills:
 
 - Trello
 
-- Devtolls
+- Devtools
 
 - SCRUM
 
